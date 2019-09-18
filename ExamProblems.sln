@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bricks", "Bricks\Bricks.csproj", "{7EA6E3F0-15B8-48AE-B84F-12CDD9E87B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOnSegment", "PointOnSegment\PointOnSegment.csproj", "{521599F0-D1C6-44BF-A3F8-5F18D6142FE0}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA6E3F0-15B8-48AE-B84F-12CDD9E87B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA6E3F0-15B8-48AE-B84F-12CDD9E87B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA6E3F0-15B8-48AE-B84F-12CDD9E87B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA6E3F0-15B8-48AE-B84F-12CDD9E87B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521599F0-D1C6-44BF-A3F8-5F18D6142FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521599F0-D1C6-44BF-A3F8-5F18D6142FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521599F0-D1C6-44BF-A3F8-5F18D6142FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521599F0-D1C6-44BF-A3F8-5F18D6142FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
