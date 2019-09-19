@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumStepThree", "SumStepThre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasingElements", "IncreasingElements\IncreasingElements.csproj", "{F7FC4D42-7885-4721-8FF6-CDF44FB4DBC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combination", "Combination\Combination.csproj", "{434A2691-02AE-4496-87AC-A782583D1437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F7FC4D42-7885-4721-8FF6-CDF44FB4DBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7FC4D42-7885-4721-8FF6-CDF44FB4DBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7FC4D42-7885-4721-8FF6-CDF44FB4DBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434A2691-02AE-4496-87AC-A782583D1437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434A2691-02AE-4496-87AC-A782583D1437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434A2691-02AE-4496-87AC-A782583D1437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434A2691-02AE-4496-87AC-A782583D1437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
