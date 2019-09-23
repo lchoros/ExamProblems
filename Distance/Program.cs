@@ -10,17 +10,6 @@ namespace Distance
     {
         static void Main(string[] args)
         {
-            int initialSpeed = int.Parse(Console.ReadLine());
-            int firstTimeFrame = int.Parse(Console.ReadLine());
-            int secondTimeFrame = int.Parse(Console.ReadLine());
-            int thridTimeFrame = int.Parse(Console.ReadLine());
-
-            int totalTime = firstTimeFrame + secondTimeFrame + thridTimeFrame;
-
-            for (int i = 0; i < length; i++)
-            {
-
-            }
         
         }
     }
